@@ -78,9 +78,9 @@ logout
 
 Open phpmyadmin
 
-Create Database car
+Create Database cars
 
-Import database car.sql (available inside zip package)
+Import database cars.sql (available inside zip package)
 
 
 *****For User*****
